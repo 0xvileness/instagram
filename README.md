@@ -2,6 +2,10 @@ installation requirements
 
 requests, colorama, base64, binascii)
 
+
+
+Details:
+
 if the user has EMAIL connected to Instagram
 if the  user has PHONE connected to Instagram
 if the user has WHATSAPP connected to Instagram
